@@ -1,0 +1,34 @@
+.home_products_image_div {
+  width: 100%;
+  height: 300px;
+}
+
+.home_products_image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.product_browse_btn {
+  width: 170px !important;
+  border-radius: 10px !important;
+  background-color: #116e72 !important;
+  height: 45px !important;
+  color: #fff !important;
+}
+
+.browse_all_btn {
+  text-decoration: none !important;
+  color: #fff !important;
+}
+
+.carousel_para {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 42px;
+  text-align: center;
+  letter-spacing: 0.1em;
+  color: #2C2C2C;
+}

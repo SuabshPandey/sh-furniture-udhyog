@@ -1,0 +1,69 @@
+.about_img_div{
+    width: 100%;
+    height: 400px;
+    margin-top: 40px;
+}
+
+.about_img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.about_desp_para{
+    text-align: justify;
+}
+
+.about_desp_div{
+    margin-top: 30px;
+}
+.bg_about_desp{
+    background-color: #116E72;
+    margin-top: 30px;
+    color: #fff;
+}
+
+.about_team_div{
+    margin-top: 40px !important;
+    background-color: #116E72;
+    color:#fff;
+}
+
+.about_intro_div{
+    margin-top: 30px;
+}
+
+.intro_img_div{
+    width: 100%;
+    height: 600px;
+
+}
+.intro_img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.intro_position_desp{
+    padding-left: 10px;
+    padding-right: 5px;
+}
+
+.about_carousel_img{
+    width: 100%;
+    height: 600px;
+    object-fit: cover;
+    overflow: hidden;
+}
+
+
+
+.about_desp_title{
+    font-family: 'Baloo Tamma 2', cursive;
+    color:#116E72;
+}
+.intro_position{
+    font-family: 'Baloo Tamma 2', cursive;
+    color:#116E72;
+
+}

@@ -1,0 +1,11 @@
+.policy_heading{
+    font-size: 30px;
+    margin-top: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+
+.policy_desp{
+    font-size: 20px;
+    line-height: 2;
+}

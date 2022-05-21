@@ -1,0 +1,22 @@
+ul li {
+    /* color: #116E72; */
+    cursor: pointer;
+
+    /* padding: 5px; */
+}
+ul{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    height: 100%;
+}
+
+.product_list_head_items{
+    color: #116E72 !important;
+    list-style: none;
+}
+
+
+.fas{
+    padding: 15px;
+}

@@ -1,0 +1,51 @@
+body{
+  background-color: whitesmoke !important;
+}
+.pa{
+  padding: 10px;
+}
+.pa_t{
+  padding-top: 40px;
+}
+.pa_r{
+  padding-right: 40px;
+}
+.pa_tb{
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+.pa_l{
+  padding-left: 10px;
+}
+.ma{
+  margin: 10px;
+}
+.ma_t{
+  margin-top: 10px;
+}
+.ma_b{
+  margin-bottom: 40px;
+}
+.ma_l{
+  margin-left: 10px;
+}
+.ma_r{
+  margin-right: 10px;
+}
+.ma_tb{
+  margin-top: 40px;
+  margin-bottom: 40px;
+}
+
+.wc{
+  color: #fff;
+}
+.bc{
+  color: #000;
+}
+.tc{
+  text-align: center;
+}
+.fs{
+  font-size: 18px;
+}

@@ -1,0 +1,48 @@
+
+.custom_contact_btn{
+    background-color: rgb(13 24 81) !important;
+    border-radius: 0 !important;
+    /* margin-bottom: px; */
+}
+.custom_contact_icon{
+    padding: 30px 30px 0px 0px;
+    color: rgb(13 24 81) !important;
+}
+
+.bg_contact{
+    background-color: #116E72;
+    margin-bottom: 30px;
+    border-radius: 20px;
+}
+.contact_text{
+    text-align: left;
+    padding: 0%;
+}
+
+.contact_heading{
+    color: rgb(13 24 81) !important;
+}
+
+.contact_para{
+    color: #525252;
+}
+
+/* textarea{
+    width: 540px;
+    height: 300px;
+} */
+@media (max-width: 768px) {
+    textarea{
+        width: 350px;
+    }
+}
+
+.custom_contact_btn{
+    color: #ffffff !important;
+}
+
+.contact_form_detail{
+    color: rgb(13 24 81);
+    font-family: 'Baloo Tamma 2', cursive;
+    font-weight: bold;
+}
